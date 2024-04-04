@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\InterfaceTask\InterfaceTask\obj\Debug\InterfaceTask.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\InterfaceTask\InterfaceTask\obj\Debug\InterfaceTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\InterfaceTask\InterfaceTask\bin\Debug\InterfaceTask.exe.config
+C:\Users\HP\source\repos\InterfaceTask\InterfaceTask\bin\Debug\InterfaceTask.exe
+C:\Users\HP\source\repos\InterfaceTask\InterfaceTask\bin\Debug\InterfaceTask.pdb
+C:\Users\HP\source\repos\InterfaceTask\InterfaceTask\obj\Debug\InterfaceTask.exe
+C:\Users\HP\source\repos\InterfaceTask\InterfaceTask\obj\Debug\InterfaceTask.pdb

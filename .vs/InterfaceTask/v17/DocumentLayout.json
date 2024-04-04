@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\InterfaceTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B405CBA-F3C5-42C8-9DE1-74C75BF5D882}|InterfaceTask\\InterfaceTask.csproj|c:\\users\\hp\\source\\repos\\interfacetask\\interfacetask\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B405CBA-F3C5-42C8-9DE1-74C75BF5D882}|InterfaceTask\\InterfaceTask.csproj|solutionrelative:interfacetask\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B405CBA-F3C5-42C8-9DE1-74C75BF5D882}|InterfaceTask\\InterfaceTask.csproj|c:\\users\\hp\\source\\repos\\interfacetask\\interfacetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B405CBA-F3C5-42C8-9DE1-74C75BF5D882}|InterfaceTask\\InterfaceTask.csproj|solutionrelative:interfacetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InterfaceTask\\InterfaceTask\\User.cs",
+              "RelativeDocumentMoniker": "InterfaceTask\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InterfaceTask\\InterfaceTask\\User.cs",
+              "RelativeToolTip": "InterfaceTask\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:10:11.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\InterfaceTask\\InterfaceTask\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceTask\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\InterfaceTask\\InterfaceTask\\Program.cs",
+              "RelativeToolTip": "InterfaceTask\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:05:07.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
